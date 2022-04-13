@@ -58,6 +58,106 @@
     color: #ffffff;
     background-color: #3498db;
 }
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-instagram {
+    background: #ea4c89;
+    color: white;
+}
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+.endw{
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    background: black;
+    padding-bottom: 100px;
+}
+.endw-1{
+    padding:70px 0px 0px 0px;
+    font-size: 30px;
+    color: white;
+
+}
+.endw-icon{
+    padding:70px 0px 0px 0px;
+}
+.News-1{
+    text-align: center;
+
+}
+.News1-1{
+    display: flex;
+}
+.New-1-2{
+    padding-bottom:30px ;
+    display: flex;
+}
+.imgN-1{
+    padding: 0px 0px 0px 200px;
+}
+.textN-1{
+    font-size: 25px;
+}
+.textN{
+     padding: 0px 0px 0px 68px;
+}
+.btnN-1{
+    margin: 35px 0px 0px -50px;
+    position: absolute;
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 7px;
+    transition: 0.8s;
+}
+.btnN-1:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN-2{
+    margin: 35px 0px 0px -50px;
+    position: absolute;
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 7px;
+    transition: 0.8s;
+}
+.btnN-2:hover {
+    color: #ffffff;
+    background-color: #3498db;
+}
+.seeall{
+    position: absolute;
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 7px;
+    transition: 0.8s;
+}
+.seeall:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.seeall-a{
+    padding: 70px;
+}
+
+
 
 
 
