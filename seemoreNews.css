@@ -1,0 +1,209 @@
+.container{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+.imgN1{
+    width: 100%;
+    width: 600px;
+    height: 300px;
+}
+.h2-1,.h3-1{
+    padding:10px ;
+
+}
+
+.news1{
+    padding: 30px 300px 0px 300px;
+    margin:0px 0px 0px 0px ;
+    display: flex;
+    justify-content: space-between;
+}
+.btnN1{
+    position: absolute;
+    margin: 0px 0px 0px 0px;
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN1:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.News1-1{
+    justify-content: left;
+}
+.h1N1{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 15px;
+
+}
+.btnN2{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN2:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN3{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN3:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN4{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN4:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN5{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN5:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN6{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN6:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN7{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN7:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN8{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN8:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN9{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN9:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN10{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN10:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.btnN11{
+    position: absolute;
+
+    color: #3498db;
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    transition: 0.8s;
+}
+.btnN11:hover{
+    color: #ffffff;
+    background-color: #3498db;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-instagram {
+    background: #ea4c89;
+    color: white;
+}
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+.endw{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    background: black;
+    padding-bottom: 100px;
+}
+.endw-1{
+    padding:70px 0px 0px 0px;
+    font-size: 30px;
+    color: white;
+
+}
+.endw-icon{
+    padding:70px 0px 0px 0px;
+}

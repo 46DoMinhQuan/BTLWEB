@@ -44,13 +44,7 @@
     position: absolute;
     margin: -570px 0px 0px 43px;
 }
-.btn{
-    border: 1px solid #3498db;
-    background: none;
-    padding: 10px;
-    font-size: 15px;
-    cursor: pointer;
-}
+
 .part-1-button{
     position: absolute;
     margin: -510px 0px 0px 43px;
@@ -64,6 +58,7 @@
     color: #ffffff;
     background-color: #3498db;
 }
+
 
 
 
